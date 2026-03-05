@@ -242,6 +242,5 @@ Más allá del manejo técnico de datos, este perfil entiende el dato como **ins
 **Luis Moreno Zúñiga** · Junior Data Analyst · LATAM  
 📧 luis.el.mz12@gmail.com · 🌎 América Latina · Remote
 
-*Documentado para el curso de Laboratorio de Programación · 2025*
 
 </div>
