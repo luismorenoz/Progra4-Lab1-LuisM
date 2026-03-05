@@ -242,5 +242,9 @@ Más allá del manejo técnico de datos, este perfil entiende el dato como **ins
 **Luis Moreno Zúñiga** · Junior Data Analyst · LATAM  
 📧 luis.el.mz12@gmail.com · 🌎 América Latina · Remote
 
+**Link de Figma**
+
+[text](https://user-red-31765750.figma.site/)
+
 
 </div>
